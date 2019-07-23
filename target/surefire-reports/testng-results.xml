@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="31" started-at="2019-06-24T07:52:13Z" finished-at="2019-06-24T07:52:13Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="31" started-at="2019-06-24T07:52:13Z" finished-at="2019-06-24T07:52:13Z">
+      <class name="qaclickacademy.com.seleniumTest">
+        <test-method status="PASS" signature="seltwo()[pri:0, instance:qaclickacademy.com.seleniumTest@246ae04d]" name="seltwo" duration-ms="0" started-at="2019-06-24T13:22:13Z" finished-at="2019-06-24T13:22:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seltwo -->
+        <test-method status="PASS" signature="seltest()[pri:0, instance:qaclickacademy.com.seleniumTest@246ae04d]" name="seltest" duration-ms="0" started-at="2019-06-24T13:22:13Z" finished-at="2019-06-24T13:22:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seltest -->
+      </class> <!-- qaclickacademy.com.seleniumTest -->
+      <class name="qaclickacademy.com.appiumTest">
+        <test-method status="PASS" signature="apione()[pri:0, instance:qaclickacademy.com.appiumTest@2c6a3f77]" name="apione" duration-ms="15" started-at="2019-06-24T13:22:13Z" finished-at="2019-06-24T13:22:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apione -->
+        <test-method status="PASS" signature="apitwo()[pri:0, instance:qaclickacademy.com.appiumTest@2c6a3f77]" name="apitwo" duration-ms="0" started-at="2019-06-24T13:22:13Z" finished-at="2019-06-24T13:22:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apitwo -->
+      </class> <!-- qaclickacademy.com.appiumTest -->
+      <class name="qaclickacademy.com.restapiTest">
+        <test-method status="PASS" signature="restapitwo()[pri:0, instance:qaclickacademy.com.restapiTest@79b4d0f]" name="restapitwo" duration-ms="0" started-at="2019-06-24T13:22:13Z" finished-at="2019-06-24T13:22:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restapitwo -->
+        <test-method status="PASS" signature="restapione()[pri:0, instance:qaclickacademy.com.restapiTest@79b4d0f]" name="restapione" duration-ms="0" started-at="2019-06-24T13:22:13Z" finished-at="2019-06-24T13:22:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restapione -->
+      </class> <!-- qaclickacademy.com.restapiTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
