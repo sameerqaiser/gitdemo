@@ -8,6 +8,7 @@ public class seleniumTest {
 	public void seltest()
 	{
 		System.out.println("This is my first sel test");
+		System.out.println("This is my second sel test");
 	}
 	
 	@Test

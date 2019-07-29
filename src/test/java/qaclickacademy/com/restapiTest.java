@@ -10,6 +10,9 @@ public class restapiTest {
 		System.out.println("this is my first restapi test");
 		System.out.println("this is my second restapi test");
 		System.out.println("this is my third restapi test");
+		System.out.println("this is my fourth restapi test");
+		System.out.println("this is my fifth restapi test");
+		
 	}
 @Test
 	public void restapitwo()
