@@ -8,6 +8,8 @@ public class restapiTest {
 	public void restapione()
 	{
 		System.out.println("this is my first restapi test");
+		System.out.println("this is my second restapi test");
+		System.out.println("this is my third restapi test");
 	}
 @Test
 	public void restapitwo()
