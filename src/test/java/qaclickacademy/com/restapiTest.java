@@ -19,4 +19,10 @@ public class restapiTest {
 	{
 		System.out.println("This is my second restapi test");
 	}
+
+@Test
+public void restapithree()
+{
+	System.out.println("This is my third restapi test");
+}
 }

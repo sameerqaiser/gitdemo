@@ -16,4 +16,14 @@ public class appiumTest {
 	{
 		System.out.println("This is my second api test");
 	}
+	@Test
+	public void apithree()
+	{
+		System.out.println("This is my three api test");
+	}
+	@Test
+	public void apifourth()
+	{
+		System.out.println("This is my fourth api test");
+	}
 }
