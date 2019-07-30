@@ -16,5 +16,12 @@ public class seleniumTest {
 	{
 		System.out.println("This is my seond sel test");
 	}
+	
+	@Test
+	public void selthree()
+	{
+		System.out.println("This is my third sel test");
+	}
+
 
 }
